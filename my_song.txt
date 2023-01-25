@@ -1,0 +1,15 @@
+Happy Birthday
+Patty and Mildred J. Hill
+.1 D 5 NATURAL false
+.1 D 5 SHARP false
+.1 E 5 NATURAL false
+.3 F 5 NATURAL false
+.15 D 5 NATURAL false
+.15 E 5 NATURAL false
+.3 F 5 NATURAL false
+.15 D 5 NATURAL false
+.15 E 5 NATURAL false
+.3 F 5 NATURAL false
+.15 E 5 NATURAL false
+.15 D 5 SHARP false
+.3 D 5 NATURAL false
